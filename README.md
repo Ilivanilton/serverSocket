@@ -2,7 +2,7 @@
 
 ### Clonando o Repositório
 
-`git clone git remote add origin https://github.com/Ilivanilton/serverSocket.git`
+`git clone https://github.com/Ilivanilton/serverSocket.git`
 
 ### Instalando as Dependências
 
